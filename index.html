@@ -12,6 +12,33 @@
     <p id="subtitulo"></p>
   </header>
 
+  <section class="filtros">
+    <input
+      type="search"
+      id="busca"
+      placeholder="🔍 Buscar por nome ou descrição..."
+      autocomplete="off"
+    />
+
+    <div class="linha-filtros">
+      <select id="faixaPreco">
+        <option value="todos">💰 Todos os preços</option>
+        <option value="0-500">Até R$ 500</option>
+        <option value="500-1500">R$ 500 a R$ 1.500</option>
+        <option value="1500-999999">Acima de R$ 1.500</option>
+      </select>
+
+      <select id="ordenacao">
+        <option value="padrao">↕️ Ordem padrão</option>
+        <option value="menor-preco">Menor preço</option>
+        <option value="maior-preco">Maior preço</option>
+        <option value="nome">Nome (A–Z)</option>
+      </select>
+    </div>
+
+    <p id="contador" class="contador"></p>
+  </section>
+
   <main id="lista"></main>
 
   <script src="script.js"></script>
