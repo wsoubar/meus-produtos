@@ -1,0 +1,86 @@
+{
+  "titulo": "Catálogo de Produtos",
+  "subtitulo": "Produtos reais com preços em Reais (out/2025)",
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Samsung Galaxy A56 5G",
+      "descricao": "Smartphone intermediário com tela Super AMOLED de 6.7 polegadas, câmera tripla de 50 MP, 8 GB de RAM, 256 GB de armazenamento e bateria de 5000 mAh.",
+      "preco": 1787.00,
+      "imagem": "https://picsum.photos/seed/galaxy-a56/600/400",
+      "link": "https://www.samsung.com/br/smartphones/galaxy-a/galaxy-a56-5g/"
+    },
+    {
+      "id": 2,
+      "nome": "Sony WH-1000XM5",
+      "descricao": "Fone de ouvido over-ear com cancelamento de ruído líder de mercado, até 30 horas de bateria, som de alta resolução e conexão multiponto.",
+      "preco": 2039.00,
+      "imagem": "https://picsum.photos/seed/sony-wh1000xm5/600/400",
+      "link": "https://www.sony.com.br/electronics/headband-headphones/wh-1000xm5"
+    },
+    {
+      "id": 3,
+      "nome": "Air Fryer Mondial AFN-50-BI 5L",
+      "descricao": "Fritadeira elétrica sem óleo com capacidade de 5 litros, 1900 W de potência, controle de temperatura até 200 °C e timer de 60 minutos.",
+      "preco": 279.00,
+      "imagem": "https://picsum.photos/seed/mondial-afn50/600/400",
+      "link": "https://www.mondial.com.br/produtos/air-fryer"
+    },
+    {
+      "id": 4,
+      "nome": "Smart TV Hisense 75Q6N 75\" QLED 4K",
+      "descricao": "TV QLED 4K de 75 polegadas, 60 Hz, HDR10+, Dolby Atmos, Google TV, upscaling por IA e integração com Alexa.",
+      "preco": 5699.00,
+      "imagem": "https://picsum.photos/seed/hisense-75q6n/600/400",
+      "link": "https://www.hisense.com.br/produtos/tvs"
+    },
+    {
+      "id": 5,
+      "nome": "Notebook Asus VivoBook Go 15 E1504FA",
+      "descricao": "Notebook com processador AMD Ryzen 5, 8 GB de RAM, SSD de 512 GB, tela Full HD de 15.6 polegadas e sistema Linux.",
+      "preco": 2099.00,
+      "imagem": "https://picsum.photos/seed/asus-vivobook/600/400",
+      "link": "https://www.asus.com/br/laptops/for-home/vivobook/"
+    },
+    {
+      "id": 6,
+      "nome": "Aspirador de Pó Vertical Mondial Turbo Cycle AP-36",
+      "descricao": "Aspirador de pó vertical com boa sucção, filtro HEPA, ideal para limpeza rápida do dia a dia. Potência de 1000 W.",
+      "preco": 145.00,
+      "imagem": "https://picsum.photos/seed/mondial-ap36/600/400",
+      "link": "https://www.mondial.com.br/produtos/aspirador"
+    },
+    {
+      "id": 7,
+      "nome": "Cafeteira Nespresso Lattissima One",
+      "descricao": "Cafeteira de cápsulas que prepara espresso, lungoo e receitas com leite (latte, cappuccino) com um toque. Sistema de aquecimento rápido e desligamento automático.",
+      "preco": 1183.00,
+      "imagem": "https://picsum.photos/seed/nespresso-lattissima/600/400",
+      "link": "https://www.nespresso.com/br/pt/"
+    },
+    {
+      "id": 8,
+      "nome": "Liquidificador Oster OLIQ610 1400W",
+      "descricao": "Liquidificador com potência de 1400 W, jarra de vidro resistente, 12 velocidades e função pulsar. Ideal para sucos, vitaminas e receitas mais densas.",
+      "preco": 232.00,
+      "imagem": "https://picsum.photos/seed/oster-oliq610/600/400",
+      "link": "https://www.oster.com.br/"
+    },
+    {
+      "id": 9,
+      "nome": "Perfume 212 VIP Black Elixir (Carolina Herrera)",
+      "descricao": "Fragrância masculina amadeirada intensa, com notas de baunilha, couro e madeiras nobres. Frasco de 100 ml.",
+      "preco": 550.00,
+      "imagem": "https://picsum.photos/seed/212-vip-black/600/400",
+      "link": "https://www.carolinaherrera.com/br/pt/"
+    },
+    {
+      "id": 10,
+      "nome": "Robô Aspirador WAP Robot W90 3 em 1",
+      "descricao": "Robô aspirador que varre, aspira e passa pano. Ideal para limpeza automática de pisos. Bateria de longa duração e sensores anticolisão.",
+      "preco": 300.00,
+      "imagem": "https://picsum.photos/seed/wap-robot-w90/600/400",
+      "link": "https://www.wap.com.br/"
+    }
+  ]
+}
